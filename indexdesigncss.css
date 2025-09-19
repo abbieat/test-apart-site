@@ -1,0 +1,31 @@
+/* Layout for Index page on Apartheid website*/
+
+/* FireBrick - good color to use for link text, maroon once visited */
+
+/* Noises for focus if in noisy cafe: https://www.youtube.com/watch?v=ArwcHjmsw3A */
+
+body {background-color: rgb(255,201,14); font-family: Bernard MT Condensed; font-size: 25px; 
+      color: Maroon;}
+
+img.align-right {float: right; margin-left: 300px;}
+
+blockquote {width: 780px; position: relative; top: 240px; left: 37%; line-height:1.5em;
+            letter-spacing:0.1em; font-size: 20px; }
+
+h1 {font-size:70px;}
+
+p {margin: 0px 0px 0px 0px;}
+
+div#indexpage {position: fixed; border-style:solid; border-width: 0px 2px 0px 0px ; border-right-color: Maroon;
+           padding: 15px 15px 60px 5px ; font-size: 25px; }
+
+a {color: Maroon; text-decoration: none; }
+
+/* a:visited {color: rgb(62,31,0);} */
+
+a:hover {background-color: rgb(255,249,125);}
+
+ul {list-style-type: none;}
+
+/*div#quote {float:right; margin-top: 200px; margin-left:150px;}*/
+
