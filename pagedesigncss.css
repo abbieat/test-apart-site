@@ -1,0 +1,40 @@
+/* Layout for all pages that aren't index on Apartheid website*/
+
+body {background-color: rgb(255,201,14); font-family: Bernard MT Condensed; font-size: 15px; 
+      color: Maroon;}   /* font-color: rgb(136,0,21); */
+
+img.align-right {float: right; margin-left: 300px;}
+
+div#index {position: fixed; border-style:solid; border-width: 0px 2px 0px 0px ; border-right-color: Maroon;
+           padding: 15px 15px 60px 5px ; font-size: 25px; }
+
+a {color: Maroon; text-decoration: none; }
+
+/* a:visited {color: rgb(62,31,0);} */
+
+a:hover {background-color: rgb(255,249,125);}
+
+div#firstblock {width: 750px;position: relative; top:10px; left:37%;
+                margin-top:300px; line-height: 1.5em; letter-spacing:0.1em;
+                text-align:justify;} 
+
+div.indent {width: 750px; position: relative; top: 10px; left: 37%; line-height:1.5em;
+            letter-spacing:0.1em; text-align:justify;}
+
+img.small {width:240px; height:173px; border-width: 3px; border-style: solid; border-color: FireBrick; }
+
+img.large {width:710px; height:373px; border-width: 3px; border-style: solid; border-color: FireBrick; }
+
+figcaption {font-size: 12px; padding-left: 95px; }
+
+h1 {font-size:70px;}
+
+h2 {background-color: FireBrick; color: Maroon; line-height:1em; letter-spacing:0.05em
+    text-align:left;}
+
+p {margin: 0px 0px 0px 0px;}
+
+
+
+
+
